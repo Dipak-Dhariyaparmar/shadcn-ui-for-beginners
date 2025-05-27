@@ -22,3 +22,6 @@ export default function Home() {
     </main>
   );
 }
+
+// This is the main page of the Next.js application.
+// It includes a search input component and various button components to demonstrate their usage.

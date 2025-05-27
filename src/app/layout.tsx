@@ -20,3 +20,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+// this is the root layout component for the Next.js application.
