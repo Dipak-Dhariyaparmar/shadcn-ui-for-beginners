@@ -21,6 +21,3 @@ export function SearchInput({ placeholder }: Props) {
     </div>
   );
 }
-
-// this is a search input component that includes an input field and a search button.
-// It uses the Input and Button components from the UI library.

@@ -54,6 +54,3 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
 Button.displayName = "Button";
 
 export { Button, buttonVariants };
-
-// this is a button component that can be used in various parts of the application.
-// It supports different variants and sizes, and can be used as a child component.
