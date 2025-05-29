@@ -22,3 +22,7 @@ export default function Home() {
     </main>
   );
 }
+
+// this is the main page of the application
+// it imports the Button and SearchInput components
+// it uses the SearchInput component to create a search input field
