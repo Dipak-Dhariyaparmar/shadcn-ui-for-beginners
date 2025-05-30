@@ -21,7 +21,3 @@ export function SearchInput({ placeholder }: Props) {
     </div>
   );
 }
-
-// this component is used to create a search input with a button
-// it uses the Input and Button components from the ui folder
-// the Input component is used to create the input field

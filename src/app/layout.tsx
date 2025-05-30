@@ -20,8 +20,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-// this is the root layout of the application
-// it sets the metadata for the application
-// it imports the Inter font from Google Fonts
-// it applies global styles from globals.css

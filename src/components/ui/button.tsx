@@ -54,11 +54,3 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
 Button.displayName = "Button";
 
 export { Button, buttonVariants };
-
-// this component is used to create a button with different styles and sizes
-
-// it uses the class-variance-authority library to create variants
-
-// it also uses the cn function to combine class names
-// the button can be used as a child of another component using the asChild prop
-// it supports different variants like default, destructive, outline, secondary, ghost, and link
